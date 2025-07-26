@@ -1,0 +1,41 @@
+body{
+    margin: 0%;
+    font-family: sans-serif
+    }
+    header,
+    footer{
+    text-align: center;
+    background-color: #000000;
+    padding: 10px;
+}
+.menu{
+    background-color: #599a9a;
+    color: #000000;
+    padding: 10px;
+    position: fixed;
+    top: 40;
+    left: 0;
+    width: 100%;
+}
+.contenedor{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 60px;
+    height: 300px;
+    flex-wrap: wrap;
+}
+.caja{
+    background-color: blue;
+    width: 100px;
+     height: 300px;      
+    color: aliceblue;
+    padding: 20px;
+    
+    text-align: center;
+
+}
+style
+.caja {
+    border: #000000;
+}
